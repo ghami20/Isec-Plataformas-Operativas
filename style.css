@@ -4,6 +4,8 @@ body{
 }
 
 #formulario{
-
+    border: solid;
+    border-radius: 10px;
+    outline: 1cm;
     background-color: wheat;
 }
